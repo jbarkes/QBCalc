@@ -1,0 +1,50 @@
+<!-- Copyright (C) 2013 Jason Barkes
+
+     Android QB Rating App
+     Jason Barkes - http://jbarkes.blogspot.com
+
+     Unless required by applicable law or agreed to in writing, this software is
+     provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+     either express or implied.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="@string/pref_key_about"
+        android:title="@string/pref_header_about"
+        android:icon="@drawable/ic_pref_about">
+
+        <!-- NOTE: EditTextPreference's summary is set to its value by the activity code. -->
+        <EditTextPreference
+            android:key="@string/pref_key_version"
+            android:title="@string/pref_title_version"
+            android:enabled="false"
+            android:selectable="true"
+            android:persistent="false"
+            android:shouldDisableView="false" />
+
+        <Preference
+            android:key="@string/pref_key_eula"
+            android:title="@string/pref_title_eula" />
+
+        <Preference
+            android:key="@string/pref_key_support"
+            android:title="@string/pref_title_support"
+            android:summary="@string/pref_summary_support">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="mailto:BarkesApps@outlook.com" />
+        </Preference>
+
+        <EditTextPreference
+            android:key="@string/pref_key_copyright"
+            android:title="@string/pref_title_copyright"
+            android:enabled="false"
+            android:selectable="true"
+            android:persistent="false"
+            android:shouldDisableView="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

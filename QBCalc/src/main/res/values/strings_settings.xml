@@ -1,0 +1,71 @@
+<!-- Copyright (C) 2013 Jason Barkes
+
+     Android QB Rating App
+     Jason Barkes - http://jbarkes.blogspot.com
+
+     Unless required by applicable law or agreed to in writing, this software is
+     provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+     either express or implied.
+-->
+
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Headers -->
+    <string name="pref_header_report">Reports</string>
+    <string name="pref_header_recents">Recents</string>
+    <string name="pref_header_about">About</string>
+
+    <!-- About -->
+    <string name="pref_key_about">pref_key_about</string>
+
+    <string name="pref_key_version">pref_key_version</string>
+    <string name="pref_title_version">Version</string>
+
+    <string name="pref_key_eula">pref_key_eula</string>
+    <string name="pref_title_eula">EULA</string>
+
+    <string name="pref_key_support">pref_key_support</string>
+    <string name="pref_title_support">Customer Support</string>
+    <string name="pref_summary_support">Email</string>
+
+    <string name="pref_key_copyright">pref_key_copyright</string>
+    <string name="pref_title_copyright">© 2013 Jason Barkes</string>
+
+    <!-- Reports -->
+    <string name="pref_key_report">pref_key_report</string>
+
+    <string name="pref_key_report_name">pref_key_report_name</string>
+    <string name="pref_title_report_name">Default report title</string>
+    <string name="pref_default_report_name">QB Rating Report</string>
+
+    <string name="pref_key_include_team">pref_key_include_team</string>
+    <string name="pref_title_include_team">Include team</string>
+    <string name="pref_desc_include_team">Include team name on reports</string>
+
+    <string name="pref_key_team_name">pref_key_team_name</string>
+    <string name="pref_title_team_name">Team name</string>
+    <string name="pref_default_team_name">My Team</string>
+
+    <string name="pref_key_include_player">pref_key_include_player</string>
+    <string name="pref_title_include_player">Include player</string>
+    <string name="pref_desc_include_player">Include player name on reports</string>
+
+    <string name="pref_key_player_name">pref_key_player_name</string>
+    <string name="pref_title_player_name">Player name</string>
+    <string name="pref_default_player_name">My Player</string>
+
+    <string name="pref_key_include_date">pref_key_include_date</string>
+    <string name="pref_title_include_date">Include date</string>
+    <string name="pref_desc_include_date">Include current date on reports</string>
+
+    <string name="pref_key_recents_limit">pref_key_recents_limit</string>
+    <string name="pref_key_recents">QBRatingRecents</string>
+    <string name="pref_key_recents_json">listJSON</string>
+
+    <string name="key_teams_json">key_teams_json</string>
+    <string name="pref_key_recent_teams">pref_key_recent_teams</string>
+    <string name="key_players_json">key_players_json</string>
+    <string name="pref_key_recent_players">pref_key_recent_players</string>
+
+</resources>

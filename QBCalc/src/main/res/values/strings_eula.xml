@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Jason Barkes
+
+     Android QB Rating App
+     Jason Barkes - http://jbarkes.blogspot.com
+
+     Unless required by applicable law or agreed to in writing, this software is
+     provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+     either express or implied.
+-->
+
+<resources>
+    <string name="app_eula_accept">OK</string>
+    <string name="app_eula_title">End User License Agreement (EULA)</string>
+    <string name="app_eula_text">
+        This End-User License Agreement (“EULA”) is a legal agreement between you (either an individual or a single entity), the end-user,
+        and the author of the QB Calculator Software ("Owner"). This EULA permits you to use a single copy, or multiples copies of the software product
+        identified above, which includes computer software and may include associated media, printed materials, and on-line or electronic documentation.
+        By installing, copying, or otherwise using the QB Calculator Software, you agree to be bounded by the terms of this EULA. If you do not agree
+        to the terms of this EULA, do not install or use the QB Calculator Software.
+        Do not use the Software until you have carefully read the following Agreement.
+
+        \n\n1. GRANT OF LICENSE
+
+        \n\nSubject to the terms and conditions of this Agreement, you are granted a limited, non-exclusive, license to download, install, and use
+        the QB Calculator Software. The QB Calculator software is licensed, not sold.
+
+        \n\n2. RESTRICTIONS
+
+        \n\nYou may not decompile, disassemble or otherwise reverse engineer the QB Calculator software, or engage in any other activities
+        to obtain underlying information that is not visible to the user in connection with normal use of the QB Calculator software. You
+        agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based upon this software. You agree not to
+        publicize or distribute any registration code algorithms, information, or registration codes used by this software without permission
+        from the Owner. You may not use the QB Calculator Software to engage in or allow others to engage in any illegal activity where
+        the QB Calculator Software is accessed and used. You may not use the QB Calculator Software to engage in any activity that will
+        violate the rights of third parties, including, without limitation, through the use, public display, public performance, reproduction,
+        distribution, or modification of communications or materials that infringe copyrights, trademarks, publicity rights, privacy rights,
+        other proprietary rights, or rights against defamation of third parties.
+
+        \n\n3. OWNERSHIP
+
+        \n\nThis license provides you with limited rights to use the QB Calculator Software. The Owner retains all ownership, right, title
+        and interest in, to and of the QB Calculator Software and all copies of it. All rights not specifically granted in this license,
+        including domestic and international copyrights, are reserved by Jason Barkes.
+
+        \n\n4. COPYRIGHT
+
+        \n\nThis software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+        \n\n5. DISCLAIMER OF WARRANTIES
+
+        \n\nTHE QB CALCULATOR SOFTWARE IS PROVIDED “AS IS,” WITH NO WARRANTIES WHATSOEVER. THE OWNER EXPRESSLY DISCLAIMS TO THE
+        FULLEST EXTENT PERMITTED BY LAW ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES
+        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS AND ANY WARRANTIES
+        REGARDING THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THE QB CALCULATOR SOFTWARE. THE OWNER DOES NOT WARRANT
+        THAT THE FUNCTIONS CONTAINED IN THE QB CALCULATOR SOFTWARE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE QB CALCULATOR
+        SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE QB CALCULATOR SOFTWARE WILL BE CORRECTED. THE OWNER
+        DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE QB CALCULATOR SOFTWARE IN
+        TERMS OF THEIR CORRECTNESS, ACCURACY, RELIABILITY OR OTHERWISE. THE OWNER DOES NOT REPRESENT OR WARRANT THAT USERS WILL
+        BE ABLE TO ACCESS OR USE THE QB CALCULATOR SOFTWARE AT TIMES OR LOCATIONS OF THEIR CHOOSING, OR THAT THE OWNER WILL HAVE
+        ADEQUATE CAPACITY FOR ANY USER’S REQUIREMENTS. NO ORAL OR WRITTEN STATEMENT, INFORMATION OR ADVICE GIVEN BY THE OWNER, OR
+        RESPECTIVE EMPLOYEES, DISTRIBUTORS, DEALERS, OR AGENTS SHALL CREATE ANY WARRANTIES.
+
+        \n\nYOU UNDERSTAND AND AGREE THAT YOUR DOWNLOAD AND/OR USE OF THE QB CALCULATOR SOFTWARE IS AT YOUR OWN DISCRETION AND RISK AND
+        THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES TO YOUR DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF THE
+        QB CALCULATOR SOFTWARE.
+
+        \n\nSOME STATES OR OTHER JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT
+        APPLY TO YOU. YOU MAY ALSO HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE AND JURISDICTION TO JURISDICTION.
+
+        \n\n6. LIMITATION OF LIABILITY
+
+        \n\nUNDER NO CIRCUMSTANCES SHALL THE OWNER, OR SUPPLIERS, RESELLERS, PARTNERS OR RESPECTIVE AFFILIATES BE LIABLE
+        FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO THE QB
+        CALCULATOR SOFTWARE, WHETHER SUCH CLAIM IS BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, (EVEN
+        IF ANY SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). WITHOUT LIMITING THE FOREGOING, THE TOTAL AGGREGATE
+        LIABILITY OF THE OWNER, AND HIS SUPPLIERS, RESELLERS, PARTNERS AND RESPECTIVE AFFILIATES ARISING FROM OR RELATED
+        TO THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT, IF ANY, PAID BY YOU TO THE OWNER FOR THE QB CALCULATOR SOFTWARE. IF THE
+        QB CALCULATOR SOFTWARE IS PROVIDED WITHOUT CHARGE, THEN THE OWNER AND SUPPLIERS SHALL HAVE NO LIABILITY TO YOU WHATSOEVER.
+
+        \n\nTHE FOREGOING LIMITATIONS OF LIABILITY SHALL APPLY WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF AND RELIANCE ON THE QB
+        CALCULATOR SOFTWARE, FROM INABILITY TO USE THE QB CALCULATOR SOFTWARE, TO USE, OR FROM THE INTERRUPTION, SUSPENSION, OR
+        TERMINATION OF THE QB CALCULATOR SOFTWARE (INCLUDING SUCH DAMAGES INCURRED BY THIRD PARTIES). SUCH LIMITATION SHALL APPLY
+        NOTWITHSTANDING A FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY AND TO THE FULLEST EXTENT PERMITTED BY LAW. SOME STATES
+        OR OTHER JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR INCIDENTAL, CONSEQUENTIAL, OR DIRECT DAMAGES,
+        SO THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU.
+
+        \n\n7. MISCELLANEOUS
+
+        \n\nThe Owner reserves the right to modify or amend this Agreement at any time and for any reason or for no reason at all,
+        at his sole discretion, without notice.
+
+        \n\nIf any provision in this Agreement should be held illegal or unenforceable by a court of competent jurisdiction, such
+        provision shall be modified to the extent necessary to render it enforceable without losing its intent, or severed from
+        this Agreement if no such modification is possible, and other provisions of this Agreement shall remain in full force and
+        effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance,
+        shall not waive such term or condition or any subsequent breach thereof.
+
+    </string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Jason Barkes
+
+     Android QB Rating App
+     Jason Barkes - http://jbarkes.blogspot.com
+
+     Unless required by applicable law or agreed to in writing, this software is
+     provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+     either express or implied.
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_about"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/ic_splash_portrait">
+
+    <!--<ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_logo_about"
+        android:layout_gravity="center_horizontal" />-->
+
+</LinearLayout>

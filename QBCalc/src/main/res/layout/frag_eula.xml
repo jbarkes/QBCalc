@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Jason Barkes
+
+     Android QB Rating App
+     Jason Barkes - http://jbarkes.blogspot.com
+
+     Unless required by applicable law or agreed to in writing, this software is
+     provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+     either express or implied.
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_eula"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:background="@android:color/background_light">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sv_container"
+        android:layout_margin="20dp"
+        android:fillViewport="false">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/app_eula_text"
+            android:id="@+id/text_eula"
+            android:textColor="@android:color/black" />
+    </ScrollView>
+
+</LinearLayout>

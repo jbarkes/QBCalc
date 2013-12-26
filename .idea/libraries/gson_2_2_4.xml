@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gson-2.2.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/QBCalc/gson" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/QBCalc/gson" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/QBCalc/gson" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/QBCalc/gson" recursive="false" type="SOURCES" />
+  </library>
+</component>
